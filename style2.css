@@ -20,7 +20,7 @@ h1{
 img{
     width: 300px;
     height: 300px;
-    border: 1px solid rgb(0 , 0 , 150);
+    border: 2px solid rgb(0 , 0 , 150);
     margin: 20px;
     transition: all 0.5s;
 }
